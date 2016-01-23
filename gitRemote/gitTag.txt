@@ -1,0 +1,7 @@
+#Tag
+Yaptýðýmýz commitlerde projenin belirli noktalarýný belirtmek için kullanýlýrz
+
+$git tag projenin taglerini listeler
+$git tag -a tagAdi -m "Tag mesajý" yeni teg oluþturur
+
+$git 
