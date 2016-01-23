@@ -1,1 +1,3 @@
+$ git init <git oluþturmak için kullanýyoruz> 
+
 $ git rm filename <Dosyalarý silmek için kullanýyoruz> 

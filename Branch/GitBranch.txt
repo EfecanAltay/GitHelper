@@ -1,0 +1,6 @@
+$git branch //brancleri listeler
+
+$git branch development //yeni bir branch oluþturma
+
+$git checkout development //calýþma alanýný development branch ýna çektik.
+
