@@ -1,0 +1,7 @@
+$git remote -v komutu kullanýlan tum serverlarý listeler
+
+$git remote -add [adres] //repo eklendi 
+$git push org master //dosyalarýmýzý push iþlemiyle repomuza attýk
+
+
+
