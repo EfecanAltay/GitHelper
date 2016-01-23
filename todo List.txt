@@ -1,0 +1,10 @@
+çalýþma
+yemek ye
+eve git
+<gitignore dosyasýdýr>
+git te paylaþmamak için .gitignore klasorunun içinde saklarýz.
+
+# ile baþlayan satýrlar yorum satýrlarýdýr
+bir patternin baþýna ! isareti tersini anlatýr
+
+
