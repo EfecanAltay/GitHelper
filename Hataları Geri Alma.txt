@@ -1,0 +1,5 @@
+$ git commit --amend //ayný isimle yeni yapýlan deðiþikliði tekrar göderiyor (mesaj deðiþkliði için)
+$ git reset HEAD filename //son komuttaki hali neyse oraya reset etmek için
+$ git checkout -- filename (Tehlikeli) //Dosyalarýn referansýnýn üstüne yazýldýðý için dosyalarýmýz gideceðinden tehlikeli
+
+ 
